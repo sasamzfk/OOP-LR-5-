@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net8.0\ConsoleApp20.exe
+C:\Users\Lenovo\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net8.0\ConsoleApp20.deps.json
+C:\Users\Lenovo\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net8.0\ConsoleApp20.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net8.0\ConsoleApp20.dll
+C:\Users\Lenovo\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net8.0\ConsoleApp20.pdb
+C:\Users\Lenovo\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleApp20.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleApp20.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleApp20.sourcelink.json
+C:\Users\Lenovo\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleApp20.dll
+C:\Users\Lenovo\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\refint\ConsoleApp20.dll
+C:\Users\Lenovo\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleApp20.pdb
+C:\Users\Lenovo\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleApp20.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ref\ConsoleApp20.dll
